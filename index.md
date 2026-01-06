@@ -9,3 +9,7 @@ int main()
    return 0;
 }
 ```
+### Objetivos 2026
+- [x] Lutar Jiu-Jitsu
+- [ ] Comprar um celular novo
+- [ ] Comprar roupa nova
